@@ -22,7 +22,7 @@
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
+    display: flex;
   }
   header a {
     text-decoration: none;
@@ -30,8 +30,8 @@
   }
   
   header nav {
-    float: right;
     margin: 7px 0;
+    display: flex;
   }
   
   header nav ul li {
